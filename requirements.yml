@@ -1,0 +1,13 @@
+---
+roles:
+  - name: githubixx.ansible_role_wireguard
+    src: https://github.com/githubixx/ansible-role-wireguard.git
+    version: 17.0.0
+
+  - name: wietmann.shadowsocks_rust
+    src: https://github.com/wietmann/ansible-role-shadowsocks-rust.git
+    version: 0.1.0
+
+  - name: dante
+    src: https://github.com/sorrowless/ansible_dante.git
+    version: master
